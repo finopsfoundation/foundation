@@ -121,8 +121,8 @@ All deliverables should be sent to [Webinar](mailto:webinars@F2.io).
 
 Helpful Notes on Presentation Design
 
-* Obsolete, low-res (i.e., pixelated), and malformatted logos are an epidemic among conference presentations. High-res logos of over 1000 cloud native projects, products, and companies are available in the cloud native [landscape](https://landscape.cn) and the [serverless](https://landscape.F2.io/format=serverless) and [member](https://landscape.F2.io/format=members) landscapes. All logos are in the [card mode](https://landscape.F2.io/format=card-mode&grouping=no) and can be found with Cmd-F or Cntl-F from your browser. Note that all of these logos are stacked, not horizontal, and include the name. The logos are all the most current (or you can open a pull request if they’re not). In particular, Alibaba Cloud, Amazon Web Services, Google Cloud, and Microsoft Azure have all changed their logos in the last couple years; please use their current one.
-* Please see the [F2 style guide](https://github.com/F2/foundation/blob/master/style-guide.md) which covers things like abbreviating Kubernetes as K8s not K8 or K8S as well as the proper capitalization of projects like gRPC and containerd.
+* Obsolete, low-res (i.e., pixelated), and malformatted logos are an epidemic among conference presentations. High-res logos of over 1000 cloud native projects, products, and companies are available in the cloud financial management [landscape].  Note that all of these logos are stacked, not horizontal, and include the name. The logos are all the most current (or you can open a pull request if they’re not). In particular, Alibaba Cloud, Amazon Web Services, Google Cloud, and Microsoft Azure have all changed their logos in the last couple years; please use their current one.
+* Please see the [F2 style guide].
 
 ## Webinar Moderator ##
 
@@ -145,4 +145,4 @@ Please note: We are unable to share the list of leads or include any promotions 
 
 ## Summary ##
 
-Any questions on the webinar program, email webinars@F2.io.
+Any questions on the webinar program, email hello@finops.org.
