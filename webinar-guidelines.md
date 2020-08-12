@@ -67,7 +67,7 @@ Ambassador webinar: This is a webinar presented by one of the F2 Ambassadors.
 * Allowed:
   * Share knowledge, not advertisements
   * Stories are encouraged with real world examples, battles seen in the field
-Cultural change and examples, why are we in the state of disparate ways to do this practice, potential deficiencies
+  * Cultural change and examples, why are we in the state that requires this practice, potential deficiencies with current models,  etc.
   * Leave participants with a list of helpful takeaways, not a free trial pitches
 
 Members can add a slide at the end of their webinar on where to get more information.
