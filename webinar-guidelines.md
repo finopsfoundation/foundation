@@ -1,4 +1,4 @@
-# F2 Webinar Guidelines #
+# FinOps Foundation Webinar Guidelines #
 
 ## Overview ##
 
@@ -25,8 +25,8 @@ If the webinar is cancelled due to not meeting these guidelines, the member will
 
 Member webinars
 
-* Platinum and Gold Members can host 1 webinar per quarter, based on availability.
-* Silver members can host 1 webinar every 6 months, based on availability.
+* Premier Members can host 1 webinar per quarter, based on availability.
+* General members can host 1 webinar every 6 months, based on availability.
 * End user supporter members cannot hold a webinar.
 * F2 Member webinars will have "Member webinar" preceding their webinar title.
  
