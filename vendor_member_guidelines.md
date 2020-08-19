@@ -1,14 +1,14 @@
 # Vendor Member Guidelines
 
-All participants must follow the Linux Foundation code of conduct and the FinOps Foundation member expectations, vendors should see especially the "No Sales Pitches" section.
+All participants must follow the Linux Foundation code of conduct and the FinOps Foundation member expectations, vendors should see especially the "No Sales Pitches" section: https://github.com/finopsfoundation/foundation/blob/master/code_of_conduct.md
 
 ## Slack Access Criteria
 
 We will grant slack access to participants from your company who fit the [FinOps practitioner definition](https://github.com/finopsfoundation/foundation/blob/master/practitioner_definition.md). Those outside of that will be considered on a one-off basis by the membership committee, however the stance on no sales people (or those who hold quotas of any kind, such as technical pre-sales) is firm. The ideal participants are SMEs who know both cloud financial management and your product from hands-on work. 
 
-## Adding SMEs to Slack
+## Adding People to Slack
 
-All Slack participants must request access via the membership form at https://FinOps.org/membership and be approved before gaining access. They should request access as a “General Vendor Member” or “Premier Vendor Member” depending on their level and provide all of their details for review.
+All Slack participants must request access via the membership form at https://FinOps.org/membership and be approved before gaining access. They should request access as a “General Vendor Member” or “Premier Vendor Member” depending on their level and provide all of their details for review. Once approved, they will receive a link to join Slack.
 
 ## Slack Room Participation
 
