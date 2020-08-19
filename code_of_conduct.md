@@ -5,7 +5,7 @@ https://www.linuxfoundation.org/code-of-conduct/
 
 # Member statement
 
-The FinOps Foundation also expects its participants to do teh following:
+The FinOps Foundation also expects its participants to do the following:
 
 * Contribute proactively to the FinOps Foundation
 * Demonstrate commitment to best practices and continual improvement of the industry
@@ -26,7 +26,7 @@ All people are expected to treat others with respect and consideration. Generall
 
 FinOps Foundation is about sharing industry best practices, identifying the challenges that cloud poses and solutions that address them. While your products, tooling and business offerings may assist in solving some of these challenges we do not condone sales pitches. Unless there is a specific request about a product you are involved with, you should not continue to interject your offerings into conversation. 
 
-**Violating participants will receive one warning, if there is another violation, the Governing Board may opt to remove _all participants_ from the company from FinOps channels.**
+**Violating participants will receive one warning, if there is another violation, the Foundation may opt to remove _all participants_ from the company from FinOps channels.**
 
 ## Defamation
 
