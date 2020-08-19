@@ -8,7 +8,7 @@ https://www.linuxfoundation.org/code-of-conduct/
 The FinOps Foundation also expects its participants to do teh following:
 
 * Contribute proactively to the FinOps Foundation
-8 Demonstrate commitment to best practices and continual improvement of the industry
+* Demonstrate commitment to best practices and continual improvement of the industry
 * Aim to bring long-term benefits to the industry, rather than short-term advantage for individuals and/or your company
 * Show respect for the diverse range of people and cultures with whom I work and for their human rights
 * Not be involved in corrupt, unethical or illegal practices, bribery, discrimination or similar improper behaviour
@@ -24,11 +24,12 @@ All people are expected to treat others with respect and consideration. Generall
 
 ## No Sales Pitches
 
-FinOps Foundation is about sharing industry best practices, identifying the challenges that cloud poses and solutions that address them. While your products, tooling and business offerings may assist in solving some of these challenges we do not condone sales pitches. Unless there is a specific request about a product you are involved with, you should not continue to interject your offerings into conversation. **Violating participants will receive one warning, if there is another violation, the Governing Board may opt to remove all participants from the company from FinOps channels.**
+FinOps Foundation is about sharing industry best practices, identifying the challenges that cloud poses and solutions that address them. While your products, tooling and business offerings may assist in solving some of these challenges we do not condone sales pitches. Unless there is a specific request about a product you are involved with, you should not continue to interject your offerings into conversation. 
 
-##Defamation
+**Violating participants will receive one warning, if there is another violation, the Governing Board may opt to remove _all participants_ from the company from FinOps channels.**
+
+## Defamation
 
 Adding comments to the conversation about your competitors offerings, especially negative viewpoints will also not be accepted. We would like to keep the conversation positive and on point.
 
 If you witness or are subjected to inappropriate behavior, or have concerns related to this Code of Conduct, please promptly contact hello@finops.org.
-
