@@ -4,7 +4,7 @@ All participants must follow the Linux Foundation code of conduct and the FinOps
 
 ## Slack Access Criteria
 
-We will grant slack access to participants from your company who fit the [FinOps practitioner definition](https://github.com/finopsfoundation/foundation/blob/master/practitioner_definition.md). Those outside of that will be considered on a one-off basis by the membership committee, however the stance on no sales people (or those who hold quotas of any kind, such as technical pre-sales) is firm. The ideal participants are SMEs who know both cloud financial management and your product from hands-on work. 
+We will grant slack access to participants from your company who fit the [FinOps practitioner definition](https://github.com/finopsfoundation/foundation/blob/master/practitioner_definition.md). Those outside of that will be considered on a one-off basis by the membership committee, however the stance on no sales people (or those who hold quotas of any kind, such as technical pre-sales) is firm. The ideal participants are SMEs who know both cloud financial management and your product from hands-on work. SMEs from FinOps, cloud, or cloud management vendors who are FinOps Foundation vendor members in good standing (either General or Premier) may join the slack.
 
 ## Adding People to Slack
 
@@ -12,7 +12,7 @@ All Slack participants must request access via the membership form at https://Fi
 
 ## Slack Room Participation
 
-Following the code of conduct, participation should be focused on sharing thought leadership and further the field of vendor-neutral cloud financial management. 
+Following the [code of conduct](https://github.com/finopsfoundation/foundation/blob/master/code_of_conduct.md), participation should be focused on sharing thought leadership (not sales pitches) and further the field of vendor-neutral cloud financial management. 
 
 In general rooms, a good example of an interaction might look like:
 
