@@ -10,6 +10,10 @@ We will grant slack access to participants from your company who fit the [FinOps
 
 All Slack participants must request access via the membership form at https://FinOps.org/membership and be approved before gaining access. They should request access as a “General Vendor Member” or “Premier Vendor Member” depending on their level and provide all of their details for review. Once approved, they will receive a link to join Slack.
 
+## Maximum Slack Participants
+
+Vendor members initally can have up to 10 participants from their company in the Slack. The Technical Advisory Council and/or Governing Board may later increase this number.
+
 ## Slack Room Participation
 
 Following the [code of conduct](https://github.com/finopsfoundation/foundation/blob/master/code_of_conduct.md), participation should be focused on sharing thought leadership (not sales pitches) and further the field of vendor-neutral cloud financial management. 
