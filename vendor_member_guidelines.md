@@ -22,6 +22,6 @@ A bad one would be:
 
 > “We can fix that problem for you with our amazing concatenated tag feature, start a free trial of it here.”
 
-## FinOps Certified Platform dedicated Slack rooms (e.g., #opsani, #cloudability, #cloudhealth, #prosperops, etc)
+## Dedicated FinOps Certified Platform Slack rooms
 
-In your own room (#finops-on-vendor) you have more flexibility in directly discussing the ways you fix the problems with your features, as many will be there to see that. The code of conduct still stands and we encourage you to promote and engage in thoughtful conversations in your room with your customers (and potential ones) that are a mix of thought leadership and helpful information about your specific product. 
+In your own room (e.g., #opsani, #cloudability, #cloudhealth, #prosperops, etc) you have more flexibility in directly discussing the ways you fix the problems with your features, as many will be there to see that. The code of conduct still stands and we encourage you to promote and engage in thoughtful conversations in your room with your customers (and potential ones) that are a mix of thought leadership and helpful information about your specific product. 
