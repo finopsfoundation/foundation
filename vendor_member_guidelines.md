@@ -26,6 +26,10 @@ A bad one would be:
 
 > “We can fix that problem for you with our amazing concatenated tag feature, start a free trial of it here.”
 
+## Slack is not to be used for prospect outreach
+
+Slack should not be used to reach out to prospects or offer your services in an unsolicited fashion. If someone reaches out to you to ask for more details, of course it's fine to engage but vendors should not send unsolicited messages to any practitioner members regarding their services or platforms. As per the code of conduct, a vendor may be removed from slack entirely if there is more than one violation of this policy.
+
 ## Dedicated FinOps Certified Platform Slack rooms
 
 In your own room (e.g., #opsani, #cloudability, #cloudhealth, #prosperops, etc) you have more flexibility in directly discussing the ways you fix the problems with your features, as many will be there to see that. The code of conduct still stands and we encourage you to promote and engage in thoughtful conversations in your room with your customers (and potential ones) that are a mix of thought leadership and helpful information about your specific product. 
