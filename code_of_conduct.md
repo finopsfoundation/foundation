@@ -24,7 +24,7 @@ All people are expected to treat others with respect and consideration. Generall
 
 ## No Sales Pitches
 
-FinOps Foundation is about sharing industry best practices, identifying the challenges that cloud poses and solutions that address them. While your products, tooling and business offerings may assist in solving some of these challenges we do not condone sales pitches. Unless there is a specific request about a product you are involved with, you should not continue to interject your offerings into conversation. 
+FinOps Foundation is about sharing industry best practices, identifying the challenges that cloud poses and solutions that address them. While your products, tooling and business offerings may assist in solving some of these challenges we do not condone sales pitches. Unless there is a specific request about a product you are involved with, you should not continue to interject your offerings into conversation. Likewise, vendors or consultants are prohibited from using FinOps channels to do unsolicited outreach.
 
 **Violating participants will receive one warning, if there is another violation, the Foundation may opt to remove _all participants_ from the company from FinOps channels.**
 
