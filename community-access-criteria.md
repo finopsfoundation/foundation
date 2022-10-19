@@ -1,6 +1,6 @@
 # **Individual FinOps Foundation Access Criteria**
 
-The Foundation offers different levels of individual access to our programs, resources and channels based primarily on your _ **current** _ job role. To do this we vet every member via LinkedIn and require work email addresses.
+The Foundation offers different levels of individual access to our programs, resources and channels based primarily on your _**current**_ job role. To do this we vet every member via LinkedIn and require work email addresses.
 
 The Community restrictions are intended to maintain value in the community by strongly encouraging involvement and input from those who practice FinOps, while still involving the important perspectives of those who consult or promote good FinOps practices.
 
