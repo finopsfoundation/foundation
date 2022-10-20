@@ -16,7 +16,7 @@ The Community restrictions are intended to maintain value in the community by st
 - Practitioners may be working alone, we want them to have support regardless of training yet
 - Vendors and consultants in particular should focus on tailoring messages to the community, not using their disparate or marketing language tied to their services
 
-Note on sales roles: Individuals in a sales or business development position of any kind, or anyone who holds a quota (including bonuses based on sales revenue) may only hold a Supporter role in the Foundation. Examples of this would be account executives, business development reps, pre-sales engineers, pre-sales solution architects, etc.
+Note on sales roles: Individuals in a sales or business development position of any kind, or anyone who holds a quota (including bonuses based on sales revenue) may only hold a Supporter role in the Foundation. Examples of this would be Account Managers, Account Executives, Business Development reps, Pre-sales Engineers, Pre-sales Solution Architects, etc.
 
 # Individual Community Requirements
 
@@ -30,7 +30,7 @@ Consultants who sell and/or provide services to other organizations can apply fo
 
 ## Consultant Plus
 
-Those who are already approved for Consultant access can further apply for Consultant Plus. This level gives full access to Slack in parity to Practitioner designation.but still limits working group participation and maximum number of individual members permitted from the same organisation (3). Consultant Plus is based on previous practitioner experience and contractor team members, Foundation involvement and positive behavior in the community, and continuing contributions to the framework and Foundation materials (For example: previously worked as a FinOps practitioner for one company, but has transitioned to a contractor performing FinOps support work for multiple companies while contributing to the Foundation). Applications will be reviewed by Foundation staff, then passed to the [Foundation Ambassadors](https://www.finops.org/ambassadors/). If supported by at least five Ambassadors membership will be accepted, it will also be reviewed at times to make sure the criteria is maintained. As with Consultant access a valid [FinOps Certified Practitioner](https://learn.finops.org/) qualification must be maintained.
+Those who are already approved for Consultant access can further apply for Consultant Plus. This level gives full access to Slack in parity to Practitioner designation but still limits working group participation and maximum number of individual members permitted from the same organisation (3). Consultant Plus is based on previous practitioner experience and contractor team members, Foundation involvement and positive behavior in the community, and continuing contributions to the framework and Foundation materials (For example: previously worked as a FinOps practitioner for one company, but has transitioned to a contractor performing FinOps support work for multiple companies while contributing to the Foundation). Applications will be reviewed by Foundation staff, then passed to the [Foundation Ambassadors](https://www.finops.org/ambassadors/). If supported by at least five Ambassadors membership will be accepted, it will also be reviewed at times to make sure the criteria is maintained. As with Consultant access a valid [FinOps Certified Practitioner](https://learn.finops.org/) qualification must be maintained.
 
 ## Supporters
 
