@@ -1,6 +1,6 @@
 # Charter
 
-It is the primary mission of the FinOps Foundations Code of Conduct Committee to foster a community which exemplifies and practices the core values of the Foundation as stated in the Foundation’s Code of Conduct while exemplifying those values themselves. 
+It is the primary mission of the FinOps Foundations Code of Conduct Committee (CoCC) to foster a community which exemplifies and practices the core values of the Foundation as stated in the Foundation’s Code of Conduct while exemplifying those values themselves. 
 
 The Code of Conduct serves as the primary policy document and is supported with additional [references](https://events.linuxfoundation.org/about/code-of-conduct/#:~:text=Individuals%20who%20participate%20(or%20plan,whether%20before%2C%20during%20or%20after) and tools as needed. 
 
