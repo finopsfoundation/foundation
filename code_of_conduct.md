@@ -1,5 +1,7 @@
 # FinOps Foundation Code of Conduct
 
+**DEPRECATION NOTICE, Dec 2022:** Please use [this Code of Conduct documentation](/03-code_of_conduct.md) instead. We will sunset this document in favor of the new one in early 2023.
+
 All Participants in FinOps Foundation forums and events must abide by the Code of Conduct of our parent organization, Linux Foundation, which can be found here:
 https://www.linuxfoundation.org/code-of-conduct/
 
