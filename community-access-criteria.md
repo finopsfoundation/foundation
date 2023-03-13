@@ -12,7 +12,7 @@ The Community restrictions are intended to maintain value in the community by st
 
 2. Why do we require certification for so many of these levels?
 
-- We want as many people in the community to be using the language and concepts of FinOps, so they can engage more meaningfully and deeply
+- We want as many people as possible in the community to be using the language and concepts of FinOps, so they can engage more meaningfully and deeply
 - Practitioners may be working alone, we want them to have support regardless of training yet
 - Vendors and consultants in particular should focus on tailoring messages to the community, not using their disparate or marketing language tied to their services
 
@@ -34,7 +34,7 @@ Those who are already approved for Consultant access can further apply for Consu
 
 ## Supporters
 
-Anyone may be a Supporter of the FinOps Foundation. There are no limitations on being a designated a [supporter](https://www.finops.org/membership/supporter/). Supportersreceive email updates and public event invitations but will have no default access to the Foundation slack or working groups.
+Anyone may be a Supporter of the FinOps Foundation. There are no limitations on being a designated a [supporter](https://www.finops.org/membership/supporter/). Supporters receive email updates and public event invitations but will have no default access to the Foundation slack or working groups.
 
  For example industry analysts can be [supporters](https://www.finops.org/membership/supporter/) of the Foundation to receive updates and attend public events. They can also liaise with the analyst relations team to get individual updates and insights from the FinOps community.
 
@@ -50,7 +50,7 @@ Anyone who does not hold any status to the requirements can freely access inform
 
 ## Partner Member
 
-These are organizartions which provide FinOps related tooling, platform and services vendors which are members of the Foundation under [Partner membership](https://www.finops.org/membership/vendor/). Individuals from this organization may be permitted to join the community. These individuals must have a subject matter expert status (examples: product leader, relevant engineering or consultancy), they must hold a valid [FinOps Certified Practitioner](https://learn.finops.org/) qualification to maintain individual access and have completed the [code of conduct training](https://learn.finops.org/finops-code-of-conduct). Under the Partner Membership, companies are also allowed relevant marketing members to coordinate partner membership benefits, but these individuals are restricted and must not communicate with the community nor take part in working groups. A fair usage limit may be applied to attendance at certain events to maintain a balance in the community.
+These are organizations which provide FinOps related tooling, platform and services vendors which are members of the Foundation under [Partner membership](https://www.finops.org/membership/vendor/). Individuals from this organization may be permitted to join the community. These individuals must have a subject matter expert status (examples: product leader, relevant engineering or consultancy), they must hold a valid [FinOps Certified Practitioner](https://learn.finops.org/) qualification to maintain individual access and have completed the [code of conduct training](https://learn.finops.org/finops-code-of-conduct). Under the Partner Membership, companies are also allowed relevant marketing members to coordinate partner membership benefits, but these individuals are restricted and must not communicate with the community nor take part in working groups. A fair usage limit may be applied to attendance at certain events to maintain a balance in the community.
 
 ## Enterprise Member
 
