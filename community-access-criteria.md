@@ -44,7 +44,7 @@ Individuals who apply for Educational access must be a student, teacher, profess
 
 ## Public
 
-Anyone who does not hold any status to the requirements can freely access information on the [Foundations website](https://www.finops.org/), Github and other public documentation areas. They can also access any of the public [events](https://www.finops.org/community/events/) or [meetups](https://events.finops.org/). Any participation in pubic events requires an agreement to abide by the Code of Conduct.
+Anyone who does not hold any status to the requirements can freely access information on the [Foundations website](https://www.finops.org/), Github and other public documentation areas. They can also access any of the public [events](https://www.finops.org/community/events/) or [meetups](https://events.finops.org/). Any participation in public events requires an agreement to abide by the Code of Conduct.
 
 # Linux Foundation Membership
 
