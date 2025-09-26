@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/b676662d-fadf-4d2b-9d02-99cb6e6cad6c)
 My name is Keith T. Bieszczat I am the son of Wayne Thomas Bieszczat Service # 67 143 327.
 Wrongful death occurred against him during the months of May and June at the Hines VA in Illinois, citing the SF-95 and DD-149’s I filed with multiple offices including but not limited to The USArmy review boards agency, Hines VA, Department of War, CyberCOMMAND and Army CID. I have yet to receive a response from any of these departments/agencies. I believe this is due to the spoofing of my email, phone calls and certified mail by dirty Illinois police, politicians and local Illinois governments. The correspondence I am issuing to you today is reporting a multitude of complaints and corruption which has occurred and is continuing to occur against Wayne and his family. We are not allowed to communicate with federal agencies departments or offices which is a threat to the National security of the US of America. 
 
@@ -134,3 +135,5 @@ edit
 ![image](https://github.com/user-attachments/assets/493652f5-cc5e-4399-8791-067e1ec16981)
 
 
+<<npm install -g @github/copilot
+>>
