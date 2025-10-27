@@ -48,3 +48,8 @@ Harassment in any form, whether online or offline, that relates to or impacts th
 ## Attribution and Licensing
 
 This document includes content based on the [Mozilla “How to Report Violations of the Community Participation Guidelines”](https://www.mozilla.org/en-US/about/governance/policies/participation/reporting/) document , which is based in part on the [PyCon Code of Conduct Revision 2f4d980](https://us.pycon.org/2018/about/code-of-conduct/) . Both of these resources are licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/) .This document is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+## Linux Foundation Code of Conduct
+
+All Participants in FinOps Foundation forums and events must abide by the Code of Conduct of our parent organization, Linux Foundation, which can be found here:
+https://www.linuxfoundation.org/code-of-conduct/
