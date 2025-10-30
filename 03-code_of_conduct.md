@@ -51,5 +51,5 @@ This document includes content based on the [Mozilla “How to Report Violations
 
 ## Linux Foundation Code of Conduct
 
-All Participants in FinOps Foundation forums and events must abide by the Code of Conduct of our parent organization, Linux Foundation, found here:
+All Participants in FinOps Foundation forums and events also abide by the Code of Conduct of our parent organization, Linux Foundation, found here:
 https://www.linuxfoundation.org/code-of-conduct/
